@@ -22,6 +22,7 @@ public class Testcase1 {
 		WebElement error = driver.findElement(By.xpath("//a[text()='Try different image']"));
 		error.click();
 		System.out.println("open the app");
+		System.out.println("close the app");
 
 	
 	}
