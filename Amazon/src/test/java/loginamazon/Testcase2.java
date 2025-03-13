@@ -58,6 +58,12 @@ public class Testcase2 extends Testcase1 {
 
 		FileHandler.copy(source, dest);
 		System.out.println("Take screenshot done");
+		
+		//Updated by other user
+		
+		System.out.println("Code execute success !");
+		System.out.println("Code execute success !");
+		System.out.println("Good job done Sandy!");
 	}
 
 }
