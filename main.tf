@@ -27,5 +27,7 @@ terraform {
     }
   }
 }
+resource "google_storage_bucket" "demo" {
+  name          = var.bucket_name
 
 
